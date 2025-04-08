@@ -10,3 +10,4 @@ in this README under the "File Descriptions" section.
 
 ## File Descriptions
 
+- **regulations.md**: Contains research about cookie and cookie consent regulations as outlined in GDPR, EDP, and CCPA as well as any consent exemptions.
