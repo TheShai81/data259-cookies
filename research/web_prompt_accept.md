@@ -19,7 +19,6 @@ However, the follow-up survey indicated that users' preferences differed from th
 - The ability to make all decisions on the first level of the notice without requiring additional clicks.
 - A perception of greater trustworthiness due to the transparent presentation of cookie options.
 
-
 Respondents who preferred the binary-choice notice (37%) cited:
 - Easier navigation.
 - Faster selection due to its perceived simplicity.
