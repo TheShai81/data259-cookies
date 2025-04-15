@@ -1,0 +1,14 @@
+Questions on Cookie Consent:
+
+- What web browser do you use most frequently?
+	- Different browsers prompt for cookies differently and also may put the option to withdraw cookie consent in different places.
+- Do you understand what a cookie does and what data you give away when you agree to use cookies?
+	- Could expand this to each type of cookie?
+	- I.E., necessary v.s. non-essential cookies?
+	- Which types of cookies are you familiar with? 
+	- In conjunction with this question:
+- Do you care that third-parties may be collecting some of your data?
+- How often do you accept all cookies without changing any settings?
+- How easy, on a scale of 1-5, do you find it to reject cookies that you don't want used? Let 1 very difficult and 5 be very easy.
+- Do you know how to stop sharing cookies with a website at any time?
+- Have you ever gone back to a website to change your cookie preferences?
