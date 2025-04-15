@@ -14,3 +14,6 @@ in this README under the "File Descriptions" section.
 
 - **web_prompt_accept.md**: Contains research on cookie banner prompts and their effectiveness in obtaining user consent plus user behavior when prompted.
 
+- **cookie_awareness.md**: Contains research on user awareness of cookies and their use collected from existing studies as well as ideas for central questions to answer in our exploration.
+
+- **cookie_questions_bolduc.txt**: A brainstorm of some potential survey questions pertaining to cookie consent and how users view it. 
