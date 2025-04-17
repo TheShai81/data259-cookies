@@ -45,4 +45,48 @@ Does true consent include understanding exactly what you are accepting?
 
 What can be done to improve user education about cookies so that consent becomes meaningful rather than routine? 
 
-How can users better understand what they are accepting?  
+How can users better understand what they are accepting?
+
+## Potential Survey Questions
+
+**How familiar are you with how website cookies work?**
+
+A. Very familiar
+
+B. Somewhat familiar
+
+C. I’ve heard of them, but I’m not sure what they do
+
+D. Not familiar at all
+
+**When you visit a website and see a cookie consent banner, what do you usually do?**
+
+A. Accept all cookies without reading
+
+B. Customize or manage cookie settings
+
+C. Decline non-essential cookies
+
+D. Leave the website
+
+E. I don’t notice or interact with cookie banners
+
+**Do you feel like you understand what you're agreeing to when you accept cookies on a website?**
+
+A. Yes, I always understand
+
+B. Sometimes, depending on the website
+
+C. Not really
+
+D. No, I just click to continue
+
+**Would you be more likely to customize your cookie settings if websites explained their purpose in simpler terms?**
+
+A. Yes, definitely
+
+B. Maybe
+
+C. No, I’d still accept all cookies
+
+D. I don’t know
