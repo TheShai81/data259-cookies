@@ -90,3 +90,35 @@ B. Maybe
 C. No, I’d still accept all cookies
 
 D. I don’t know
+
+
+**Do you find the language used in cookie consent notices clear and easy to understand?**
+
+A. Yes, 
+
+B. Somewhat, it's filled with jargon.
+
+C. No, it’s often confusing.
+
+D. 
+
+
+**Do you believe websites make it easy for users to reject non-essential cookies?**
+
+A. Yes, they provide clear options to do so.
+
+B. No, the options are often hidden or difficult to find.
+
+C. 
+
+D. 
+
+**Would you prefer a standardized, simplified cookie consent system across all websites? Why or why not?**
+
+A. Yes, it would make the process less confusing and more user-friendly.
+
+B. No, different websites have unique needs and contexts that may require tailored approaches.
+
+C. No opinion, I haven't given it much thought.
+
+D. It would be too restrictive.
