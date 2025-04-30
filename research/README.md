@@ -16,4 +16,6 @@ in this README under the "File Descriptions" section.
 
 - **cookie_awareness.md**: Contains research on user awareness of cookies and their use collected from existing studies as well as ideas for central questions to answer in our exploration.
 
-- **cookie_questions_bolduc.txt**: A brainstorm of some potential survey questions pertaining to cookie consent and how users view it. 
+- **cookie_questions_bolduc.txt**: A brainstorm of some potential survey questions pertaining to cookie consent and how users view it.
+
+- **analysis_ideas.md**: A brainstorm of statistical tests and general analysis to run for once the survey is closed.
