@@ -27,8 +27,10 @@ def rename_columns(df: pd.DataFrame) -> tuple:
     if "Timestamp" in df.columns:
         df = df.drop("Timestamp", axis=1)
     
-    new_df: pd.DataFrame = df.rename(["Question " + str(i+1) for i in range(len(df.columns))], axis=1)
-    column_map = {new: old for new, old in zip(new_df.columns, df.columns)}
+    new_columns = ["Question " + str(i + 1) for i in range(len(df.columns))]
+    new_df = df.rename(columns={old: new for old, new in zip(df.columns, new_columns)})
+    # we iloc the first row because Forms exports questions to the first row
+    column_map = {new: old for new, old in zip(new_df.columns, df.iloc[0])}
 
     return new_df, column_map
 
