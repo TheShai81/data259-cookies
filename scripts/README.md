@@ -17,8 +17,6 @@ is also a good one to see where your formatting is off.
 - Ensure your scripts/notebooks are cleaned and well-documented. Included regular 
 comments, markdown cells, and docstrings in your code so that teammates can easily 
 understand it.
-- Notebooks should not be longer than 20 cells. Typically, organizations enforce 
-a 10-cell limit, but we won't be so anal.
 - Do not hardcode paths or important constants. All should be relative/stored.
 - Function and file names are descriptive and non-arbitrary (i.e. not "foo" and "bar")
 
