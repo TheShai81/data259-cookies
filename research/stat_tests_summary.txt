@@ -1,0 +1,16 @@
+Summary of Statistical Tests:
+
+Note: All tests were run at a 5% significance level. FWER correction was not applied because there is no risk to a false positive in this exploratory study.
+
+Tests that did NOT yield significant results:
+
+- Compare number of adults that claim a comprehensive understanding of cookies in our study (22 observations) to a Statista survey of adults (1100 observations).
+- Is there any significance to the proportions of students that blindly accept cookies. We compare to the allaboutcookies study of 1000 observations of US adults which found that 38% of adults do so.
+- Isolate the Gen Z respondents by age (<= 28) and compare the proportion that blindly accept all cookies. In the allaboutcookies article, this number is .47.
+- Compare the proportions of computer-related students to non-computer-related students that selected "Yes, fully" or "I understand the basics" in response to a question about their understanding of cookies.
+- Compare the proportions of computer-related students to non-computer-related students that selected "Rarely" or "Never" accept all cookies.
+
+Tests that DID yield significant results:
+
+- Compare the mean level of ease to reject cookies between computer-related students to non-computer-related students.
+	- .035 p-value at 5% significance value. We have sufficient evidence to claim that there is a significant difference in how easy students find it to reject non-essential cookies between computer-related majors and non-computer-related majors.
