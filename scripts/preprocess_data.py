@@ -15,6 +15,7 @@ def preprocess_survey_data(filepath: str):
     renamed_df = renamed_df.drop(0).reset_index(drop=True)
 
     renamed_df["Question 1"] = renamed_df["Question 1"].astype(int)
+    renamed_df["Question 13"] = renamed_df["Question 13"].astype(int)
 
     encoding_map = encode_answers(renamed_df)
 
