@@ -18,8 +18,7 @@ them to this GitHub. GitHub may not allow you to do this and even if it does, it
 ## GitHub Datasets
 
 **cookie_survey_responses.csv**: This csv contains all the responses to our Google 
-Form. All questions are, in their entirety, the field names, and all answers are, 
-in their entirety, the cell values.
+Form. The field names are the index of each question (and the timestamp column) while the first row of the dataset contains all of the questions as plain text. All answers are, in their entirety, the cell values.
 
 ## OneDrive Datasets
 
